@@ -116,3 +116,46 @@ Insertado: 37
 Insertado: 30
 Insertado: 88
 Búsqueda de 31: ENCONTRADO
+Insertado: 36
+Insertado: 54
+Insertado: 57
+Insertado: 64
+Insertado: 1
+Insertado: 69
+Insertado: 14
+Insertado: 6
+Insertado: 27
+Insertado: 88
+Insertado: 15
+Insertado: 51
+Insertado: 16
+Insertado: 66
+Insertado: 91
+Insertado: 35
+Insertado: 2
+Insertado: 18
+Insertado: 3
+Insertado: 74
+Búsqueda de 57: ENCONTRADO
+[2025-09-09 15:09:00] Insertado: 22
+[2025-09-09 15:09:00] Insertado: 66
+[2025-09-09 15:09:00] Insertado: 2
+[2025-09-09 15:09:00] Insertado: 97
+[2025-09-09 15:09:00] Insertado: 88
+[2025-09-09 15:09:00] Insertado: 25
+[2025-09-09 15:09:00] Insertado: 86
+[2025-09-09 15:09:00] Insertado: 9
+[2025-09-09 15:09:00] Insertado: 30
+[2025-09-09 15:09:00] Insertado: 57
+[2025-09-09 15:09:00] Insertado: 31
+[2025-09-09 15:09:00] Insertado: 54
+[2025-09-09 15:09:00] Insertado: 37
+[2025-09-09 15:09:00] Insertado: 56
+[2025-09-09 15:09:00] Insertado: 69
+[2025-09-09 15:09:00] Insertado: 34
+[2025-09-09 15:09:00] Insertado: 32
+[2025-09-09 15:09:00] Insertado: 13
+[2025-09-09 15:09:00] Insertado: 54
+[2025-09-09 15:09:00] Insertado: 53
+[2025-09-09 15:09:00] Búsqueda de 33: NO ENCONTRADO
+[2025-09-09 15:09:00] Búsqueda de 32: ENCONTRADO
